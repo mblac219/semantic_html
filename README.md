@@ -9,3 +9,7 @@ I attempted to refactor some generic HTML code into Semantic HTML code with the 
 ## Screenshot of final page
 
 <img src="/assets/images/Horiseon.png" alt="Screenshot of final page" />
+
+## Link to final page 
+
+<link src="https://mblac219.github.io/semantic_html/" alt="Final page" />
