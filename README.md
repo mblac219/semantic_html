@@ -1,6 +1,6 @@
 # semantic_html
 ## Objectives
-The objective was to refactor generic HTML code into semantic HTML code.
+As a developer, I took a look through the css stylesheet noticed only generic html tags being used throughout the body of the code. The objective is to refactor generic HTML code into semantic HTML code without altering the looks of the webpage.  
 
 ## What tags were used?
 I attempted to refactor some generic HTML code into Semantic HTML code with the use of header, nav, main, article, figure and footer
